@@ -1,4 +1,4 @@
-# cropchat
+# Cam2Gether
 
 > A Vue.js project
 
